@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+Cats are cool.
 
 ## Prerequisites
 
